@@ -1,0 +1,31 @@
+{
+  "id": "albarytu-npc-sf2e-tables",
+  "title": "Albarytu NPC SF2E Tables",
+  "description": "Name tables for Albarytu NPC Tools.",
+  "version": "0.0.1",
+  "authors": [
+    {
+        "name": "albarytu"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.367"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "albarytu-npc-tools",
+        "type": "module"
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "sf2e-names",
+      "label": "SF2E Names",
+      "path": "packs/sf2e-names",
+      "type": "RollTable"
+    }
+  ]
+}
