@@ -1,0 +1,3 @@
+# ignore release zip files
+*.zip
+LOG
