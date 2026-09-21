@@ -22,7 +22,7 @@
   },
   "packs": [
     {
-      "name": "sf2e-names",
+      "name": "albarytu-npc-sf2e-names",
       "label": "SF2E Names",
       "path": "packs/sf2e-names",
       "type": "RollTable"

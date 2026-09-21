@@ -1,0 +1,11 @@
+{
+    "name": "aeon guard trooper::title",
+    "formula": "1d10",
+    "description": "Ranks used by rank-and-file Aeon Guard troops.",
+    "results": [
+        { "range": [1, 4], "name": "Trooper" },
+        { "range": [5, 7], "name": "Corporal" },
+        { "range": [8, 9], "name": "Sergeant" },
+        { "range": [10, 10], "name": "Lieutenant" }
+    ]
+}
